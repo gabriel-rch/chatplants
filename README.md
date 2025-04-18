@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-🔥-orange)
-![FAISS](https://img.shields.io/badge/FAISS-vector%20search-yellowgreen)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-supported-lightgrey)
 ![RAG](https://img.shields.io/badge/RAG-enabled-brightgreen)
 
@@ -30,7 +29,6 @@ As respostas são geradas com linguagem simples, didática e acolhedora — perf
 
 - 🧩 **LangChain** - Framework para desenvolvimento de aplicações com LLMs
 - 🧠 **Gemini 2.0** - Modelo de linguagem para geração de respostas
-- 📚 **FAISS** - Biblioteca para busca eficiente em vetores de alta dimensão
 - 🔎 **ChromaDB** - Banco de dados vetorial para armazenar embeddings
 
 ## 🚀 Como rodar o projeto
@@ -45,3 +43,4 @@ pip install -r requirements.txt
 
 # inicie o agente
 python src/main.py
+```
