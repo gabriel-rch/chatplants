@@ -6,3 +6,5 @@ langgraph
 pypdf
 chroma
 dotenv
+requests
+bs4
